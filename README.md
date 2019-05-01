@@ -4,3 +4,4 @@ working out with machine learning
 
 1. MP Neuron - Perceptron Neuron
 2. Sigmoid Neuron
+3. Feedforward network
