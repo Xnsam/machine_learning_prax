@@ -7,3 +7,5 @@ working out with machine learning
 3. Feedforward network
 4. plot an error surface
 5. Feedforward network with circles dataset
+6. GD algo
+7. Backpropagation
