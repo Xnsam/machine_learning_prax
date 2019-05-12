@@ -9,3 +9,4 @@ working out with machine learning
 5. Feedforward network with circles dataset
 6. GD algo
 7. Backpropagation
+8. pytorch basics and NN
