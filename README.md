@@ -10,3 +10,4 @@ working out with machine learning
 6. GD algo
 7. Backpropagation
 8. pytorch basics and NN
+9. Keras - PyTorch image classifier Rose or Not Rose
