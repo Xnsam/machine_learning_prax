@@ -1,14 +1,21 @@
 # machine_learning_prax
 
 working out with machine learning
+-------------------------------------
 
-1. MP Neuron - Perceptron Neuron
-2. Sigmoid Neuron
-3. Feedforward network
-4. plot an error surface
-5. Feedforward network with circles dataset
-6. GD algo
-7. Backpropagation
-8. pytorch basics and NN
-9. Keras - PyTorch image classifier Rose or Not Rose using CNN LeNet
 
+- MP Neuron - Perceptron Neuron
+- Sigmoid Neuron
+- Feedforward network
+- plot an error surface
+- Feedforward network with circles dataset
+- GD algo
+- Backpropagation
+- pytorch basics and NN
+- Keras - PyTorch image classifier Rose or Not Rose using CNN LeNet
+- PyTorch - LeNet example
+- PyTorch - blitz from pytorch documentation
+- PyTorch - basics
+- Keras - official document classification - data collected via google images
+- Keras - predict age of the user (music listener) - data from Lastfm
+- Keras - Transfer learning (VGG16, ResNet50)- Food / Not food - Classification
