@@ -30,3 +30,5 @@ working out with machine learning
 - Keras - Fine Tuning VGG16 - Food Type Classification 
 
 - Keras - Fruits Classification - Data Source Kaggle - https://www.kaggle.com/moltean/fruits
+
+- Keras - Object Detection [Object Localization and Object classfication] - using YOLO_v3 weights.
