@@ -32,3 +32,5 @@ working out with machine learning
 - Keras - Fruits Classification - Data Source Kaggle - https://www.kaggle.com/moltean/fruits
 
 - Keras - Object Detection [Object Localization and Object classfication] - using YOLO_v3 weights.
+
+- Keras + sklearn SVC - Face Detection using FaceNet embeddings
